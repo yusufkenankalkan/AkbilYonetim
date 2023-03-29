@@ -102,7 +102,7 @@ namespace AkbilYonetim
                     }
                     this.Hide();
                     FrmAnaSayfa frmAnaSayfa = new FrmAnaSayfa();
-                    frmAnaSayfa.Show();
+                    frmAnaSayfa.Show(); 
                 }
 
             }
